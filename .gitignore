@@ -11,5 +11,5 @@ ipython_config.py
 anaconda_projects
 
 # Remove previous ipynb_checkpoints
-git rm -r --cached .ipynb_checkpoints/
-git rm -r --cached anaconda_projects
+#git rm -r --cached .ipynb_checkpoints/
+#git rm -r --cached anaconda_projects
