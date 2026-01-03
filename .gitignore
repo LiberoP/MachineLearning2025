@@ -9,6 +9,9 @@
 profile_default/
 ipython_config.py
 anaconda_projects
+*/data/*
+*solution.ipynb
+
 
 # To remove previous ipynb_checkpoints from terminal:
 #git rm -r ".ipynb_checkpoints/"
